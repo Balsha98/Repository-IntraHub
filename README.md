@@ -1,2 +1,3 @@
-# Repository-IntraHub
-IntraHub - Internal College Intramurals
+# IntraHub - Internal College Intramurals
+
+The README file will soon be updated.
